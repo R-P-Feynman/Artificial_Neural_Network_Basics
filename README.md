@@ -2,7 +2,7 @@
 
 A repository of functions and models used to create artificial neural networks in Python and/or TensorFlow.
 
-# Notes
+# Files
 
 ## Optimization Methods.ipynb
 
