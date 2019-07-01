@@ -6,7 +6,7 @@ A repository of functions and models used to create artificial neural networks i
 
 ## Optimization Methods.ipynb
 
-Gradient descent, mini-bath gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
+Gradient descent, mini-batch gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
 
 ## Simple L-Layer Neural Network.ipynb
 
