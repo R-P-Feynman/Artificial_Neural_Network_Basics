@@ -4,7 +4,7 @@ A repository of functions and models used to create artificial neural networks i
 
 # Files
 
-## Optimization Methods.ipynb
+## Optimization_Methods_in_Python.ipynb
 
 Gradient descent, mini-batch gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
 
@@ -20,7 +20,7 @@ A simple L-layer neural network written from scratch in Python i.e. no TensorFlo
 
 A simple neural network for translating images of sign language.  Written in TensorFlow.  To run this you will also need the test_signs.h5 and train_signs.h5 files
 
-## TensorFlow Basics.ipynb
+## TensorFlow_Basics.ipynb
 
 Runs through the basics of TensorFlow using loss, cost, linear, sigmoid and one-hot encoding functions as examples.
 
