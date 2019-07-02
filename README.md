@@ -22,8 +22,8 @@ Runs through the basics of TensorFlow using loss, cost, linear, sigmoid and one-
 
 ## test_signs.h5
 
-Test data for Simple_Neural_Network_in_TensorFlow.ipynb.
+Test data for Simple_Neural_Network_in_TensorFlow.ipynb and Simple_Convolutional_Neural_Network_in_TensorFlow.ipynb.
 
 ## train_signs.h5
 
-Training data for Simple_Neural_Network_in_TensorFlow.ipynb.
+Training data for Simple_Neural_Network_in_TensorFlow.ipynb and Simple_Convolutional_Neural_Network_in_TensorFlow.ipynb.
