@@ -1,4 +1,4 @@
-# Neural_Networks_Basics
+# Artificial_Neural_Network_Basics
 
 A repository of functions and models used to create artificial neural networks in Python and/or TensorFlow.
 
