@@ -4,14 +4,6 @@ A repository of functions and models used to create artificial neural networks i
 
 # Files
 
-## test_happy.h5
-
-Test data for Simple_Convolutional_Neural_Network_in_Keras.ipynb.
-
-## train_happy.h5
-
-Training data for Simple_Convolutional_Neural_Network_in_Keras.ipynb.
-
 ## Optimization_Methods_in_Python.ipynb
 
 Gradient descent, mini-batch gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
@@ -39,6 +31,14 @@ A simple neural network for translating images of sign language.  Written in Ten
 ## TensorFlow_Basics.ipynb
 
 Runs through the basics of TensorFlow using loss, cost, linear, sigmoid and one-hot encoding functions as examples.
+
+## test_happy.h5
+
+Test data for Simple_Convolutional_Neural_Network_in_Keras.ipynb.
+
+## train_happy.h5
+
+Training data for Simple_Convolutional_Neural_Network_in_Keras.ipynb.
 
 ## test_signs.h5
 
