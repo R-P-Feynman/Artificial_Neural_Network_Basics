@@ -12,10 +12,6 @@ Gradient descent, mini-batch gradient descent, momentum and Adam optimizers writ
 
 A 50-layer residual network for translating images of sign language.  Written in Keras.
 
-## ResNet50.h5
-
-Pre-trained model for Residual_Network_ResNet-50_in_Keras.
-
 ## Simple_Convolutional_Neural_Network_in_Keras.ipynb
 
 A simple convolutional neural network written in Keras.  To run this you will also need the test_happy.h5 and train_happy.h5 files.
