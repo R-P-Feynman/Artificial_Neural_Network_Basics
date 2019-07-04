@@ -8,6 +8,14 @@ A repository of functions and models used to create artificial neural networks i
 
 Gradient descent, mini-batch gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
 
+## Residual_Network_ResNet-50_in_Keras
+
+A 50 layer residual network for translating images of sign language.  Written in Keras.
+
+## ResNet50.h5
+
+Pre-trained model for Residual_Network_ResNet-50_in_Keras.
+
 ## Simple_Convolutional_Neural_Network_in_Keras.ipynb
 
 A simple convolutional neural network written in Keras.  To run this you will also need the test_happy.h5 and train_happy.h5 files.
@@ -42,8 +50,8 @@ Training data for Simple_Convolutional_Neural_Network_in_Keras.ipynb.
 
 ## test_signs.h5
 
-Test data for Simple_Neural_Network_in_TensorFlow.ipynb and Simple_Convolutional_Neural_Network_in_TensorFlow.ipynb.
+Test data for Residual_Network_ResNet-50_in_Keras, Simple_Neural_Network_in_TensorFlow.ipynb and Simple_Convolutional_Neural_Network_in_TensorFlow.ipynb.
 
 ## train_signs.h5
 
-Training data for Simple_Neural_Network_in_TensorFlow.ipynb and Simple_Convolutional_Neural_Network_in_TensorFlow.ipynb.
+Training data for Residual_Network_ResNet-50_in_Keras, Simple_Neural_Network_in_TensorFlow.ipynb and Simple_Convolutional_Neural_Network_in_TensorFlow.ipynb.
