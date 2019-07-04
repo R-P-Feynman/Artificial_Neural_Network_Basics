@@ -10,7 +10,7 @@ Gradient descent, mini-batch gradient descent, momentum and Adam optimizers writ
 
 ## Residual_Network_ResNet-50_in_Keras
 
-A 50 layer residual network for translating images of sign language.  Written in Keras.
+A 50-layer residual network for translating images of sign language.  Written in Keras.
 
 ## ResNet50.h5
 
