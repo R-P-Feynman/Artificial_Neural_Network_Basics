@@ -6,7 +6,7 @@ A repository of functions and models used to create artificial neural networks i
 
 ## Art_Creation_with_Neural_Style_Transfer.ipynb
 
-Neural Style Transfer written in TensorFlow.  To run this you will need the imagenet-vgg-verydeep-19.mat file which is unfortunately too large to upload to GitHub but can be found on Kaggle. You will also need Starry.jpg and stpauls.jpg if you wish to run it on the same images used in the notebook.
+Neural Style Transfer model written in TensorFlow.  To run this you will need the imagenet-vgg-verydeep-19.mat file which is unfortunately too large to upload to GitHub but can be found on Kaggle. You will also need Starry.jpg and stpauls.jpg if you wish to run it on the same images used in the notebook.
 
 ## Optimization_Methods_in_Python.ipynb
 
