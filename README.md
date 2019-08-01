@@ -8,6 +8,10 @@ A repository of functions and models used to create artificial neural networks i
 
 Neural Style Transfer model written in TensorFlow.  To run this you will need the imagenet-vgg-verydeep-19.mat file which is unfortunately too large to upload to GitHub but can be found on Kaggle. You will also need starry.jpg and stpauls.jpg if you wish to run it on the same images used in the notebook.
 
+## Hello_World_of_Deep_Learning.ipynb
+
+A single neuron single layer network tasked to solve a simple problem in Keras.  Taken from deeplearning.ai.
+
 ## Optimization_Methods_in_Python.ipynb
 
 Gradient descent, mini-batch gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
