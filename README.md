@@ -28,6 +28,10 @@ A simple convolutional neural network written in Keras.  To run this you will al
 
 An even simpler ConvNet making use of ImageDataGenerator and the Keras Sequential API.
 
+## Simple_Convolutional_Neural_Network_in_Keras_(ImageDataGenerator_and_Transfer_Learning).ipynb
+
+As above but also uses transfer learning by training own fully connnected layers attached to the convolutional layers with pre-trained weights from the Inception model.
+
 ## Simple_Convolutional_Neural_Network_in_Python.ipynb
 
 A simple convolutional neural network written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
