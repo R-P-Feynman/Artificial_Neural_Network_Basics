@@ -24,6 +24,10 @@ A 50-layer residual network for translating images of sign language.  Written in
 
 A simple convolutional neural network written in Keras.  To run this you will also need the test_happy.h5 and train_happy.h5 files.
 
+## Simple_Convolutional_Neural_Network_in_Keras_(ImageDataGenerator).ipynb
+
+An even simpler ConvNet making use of ImageDataGenerator and keras.models.Sequential.
+
 ## Simple_Convolutional_Neural_Network_in_Python.ipynb
 
 A simple convolutional neural network written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
