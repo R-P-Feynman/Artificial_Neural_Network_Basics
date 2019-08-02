@@ -26,7 +26,7 @@ A simple convolutional neural network written in Keras.  To run this you will al
 
 ## Simple_Convolutional_Neural_Network_in_Keras_(ImageDataGenerator).ipynb
 
-An even simpler ConvNet making use of ImageDataGenerator and keras.models.Sequential.
+An even simpler ConvNet making use of ImageDataGenerator and the Keras Sequential API.
 
 ## Simple_Convolutional_Neural_Network_in_Python.ipynb
 
