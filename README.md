@@ -30,7 +30,7 @@ An even simpler ConvNet making use of ImageDataGenerator and the Keras Sequentia
 
 ## Simple_Convolutional_Neural_Network_in_Keras_(ImageDataGenerator_and_Transfer_Learning).ipynb
 
-As above but also uses transfer learning by training own fully connnected layers attached to the convolutional layers with pre-trained weights from the Inception model.
+As above but also uses transfer learning by training own fully connnected layers attached to the convolutional layers with pre-trained (and frozen) weights from the Inception model.
 
 ## Simple_Convolutional_Neural_Network_in_Python.ipynb
 
