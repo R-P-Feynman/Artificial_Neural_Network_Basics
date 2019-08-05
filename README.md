@@ -12,7 +12,7 @@ Neural Style Transfer model written in TensorFlow.  To run this you will need th
 
 A single neuron single layer network tasked to solve a simple problem in Keras.  Taken from deeplearning.ai.
 
-## NLP - Sarcasm Classifier.ipynb
+## NLP_Sarcasm_Classifier.ipynb
 
 A simple NLP model that classifies text as either being sarcastic or not.  To run this the sarcasm.json data file needs to be placed in the same folder as the notebook.
 
@@ -58,7 +58,7 @@ Runs through the basics of TensorFlow using loss, cost, linear, sigmoid and one-
 
 ## sarcasm.json
 
-Data for NLP - Sarcasm Classifier.ipynb.
+Data for NLP_Sarcasm_Classifier.ipynb.
 
 ## starry.jpg
 
