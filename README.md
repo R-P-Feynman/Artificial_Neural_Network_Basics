@@ -12,6 +12,10 @@ Neural Style Transfer model written in TensorFlow.  To run this you will need th
 
 A single neuron single layer network tasked to solve a simple problem in Keras.  Taken from deeplearning.ai.
 
+## NLP - Sarcasm Classifier.ipynb
+
+A simple NLP model that classifies text as either being sarcastic or not.  To run this the sarcasm.json data file needs to be placed in the same folder as the notebook.
+
 ## Optimization_Methods_in_Python.ipynb
 
 Gradient descent, mini-batch gradient descent, momentum and Adam optimizers written from scratch in Python i.e. no TensorFlow or Keras; includes mathematical equations in LaTeX. 
@@ -51,6 +55,10 @@ A simple neural network for translating images of sign language.  Written in Ten
 ## TensorFlow_Basics.ipynb
 
 Runs through the basics of TensorFlow using loss, cost, linear, sigmoid and one-hot encoding functions as examples.
+
+## sarcasm.json
+
+Data for NLP - Sarcasm Classifier.ipynb.
 
 ## starry.jpg
 
