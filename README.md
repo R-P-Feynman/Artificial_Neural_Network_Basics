@@ -10,10 +10,6 @@ import tensorflow.compat.v1 as tf
 
 tf.disable_v2_behavior()
 
-in place of 
-
-import tensorflow as tf
-
 # Files
 
 ## Art_Creation_with_Neural_Style_Transfer.ipynb
