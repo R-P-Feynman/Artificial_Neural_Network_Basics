@@ -4,11 +4,14 @@ A repository of functions and models used to create artificial neural networks i
 
 ## Please Note: 
 
-Scripts containing TensorFlow were written in v1 and contain functions now deprecated if running v2.  I intend to migrate them all over to v2 when I have time but in the meantime if you want to run any of these scripts with TensorFlow2 you can do so by starting with:
+Scripts containing TensorFlow were written in v1 and contain functions now deprecated if running v2.  I intend to migrate them all over to v2 when I have time but in the meantime if you want to run any of these scripts with TensorFlow2 you should be able to do so by starting with:
 
 import tensorflow.compat.v1 as tf
-
 tf.disable_v2_behavior()
+
+and removing 
+
+import tensorflow as tf
 
 # Files
 
